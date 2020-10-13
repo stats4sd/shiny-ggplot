@@ -1,0 +1,2 @@
+ggplotgui::ggplot_shiny()
+
